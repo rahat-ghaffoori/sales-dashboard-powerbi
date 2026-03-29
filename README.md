@@ -27,3 +27,7 @@ This project presents an interactive Power BI dashboard analysing sales performa
 
 ## 💡 Outcome
 This dashboard enables interactive exploration of sales data and supports data-driven decision-making through clear visualisation.
+
+## 📷 Dashboard Preview
+
+![Dashboard](dashboard.png)
