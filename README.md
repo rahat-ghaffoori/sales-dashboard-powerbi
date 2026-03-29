@@ -1,23 +1,29 @@
 # Sales Performance Dashboard (Power BI)
 
-## Overview
+## 📊 Overview
 This project presents an interactive Power BI dashboard analysing sales performance across regions, categories, and products.
 
-## Features
-- KPI tracking (Total Sales)
-- Sales breakdown by region and category
-- Monthly sales trend analysis
-- Top-performing products
-- Interactive filters for user-driven insights
+## 🎯 Objectives
+- Analyse sales trends over time  
+- Identify high-performing regions and product categories  
+- Provide insights to support business decision-making  
 
-## Tools Used
-- Power BI
-- DAX
+## 🛠️ Tools Used
+- Power BI  
+- DAX  
 
-## Key Insights
-- Sales are concentrated in specific regions and product categories
-- A small number of products drive a significant portion of revenue
-- Sales trends vary over time, indicating seasonal patterns
+## 📈 Dashboard Features
+- Total Sales KPI  
+- Sales by Category  
+- Sales by Region  
+- Monthly Sales Trend  
+- Top 5 Products  
+- Interactive filters (Region & Category)  
 
-## Outcome
-This dashboard enables data-driven decision-making through clear visualisation and interactive exploration.
+## 🔍 Key Insights
+- Sales are concentrated in specific regions and categories  
+- A small number of products generate a large portion of revenue  
+- Sales trends show variation over time, indicating potential seasonality  
+
+## 💡 Outcome
+This dashboard enables interactive exploration of sales data and supports data-driven decision-making through clear visualisation.
